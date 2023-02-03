@@ -64,12 +64,12 @@ $RECYCLE.BIN/
 ############################
 # Logs and databases
 ############################
-
-.tmp
-*.log
-*.sql
-*.sqlite
-*.sqlite3
+# DO NOT IGNORE! KEEP THESE IN THE REPO TO BACKUP CONTENT!!!
+# .tmp
+# *.log
+# *.sql
+# *.sqlite
+# *.sqlite3
 
 
 ############################
@@ -80,8 +80,9 @@ $RECYCLE.BIN/
 ssl
 .idea
 nbproject
-public/uploads/*
-!public/uploads/.gitkeep
+# DO NOT IGNORE -- KEEP THESE UPLOADS FOR BACKING UP CONTENT!
+# public/uploads/*
+# !public/uploads/.gitkeep
 
 ############################
 # Node.js
