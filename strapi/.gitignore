@@ -107,10 +107,11 @@ coverage
 # Strapi
 ############################
 
-.env
-license.txt
-exports
-*.cache
+# DO NOT IGNORE -- KEEP THESE UPLOADS FOR BACKING UP CONTENT!
+# .env
+# license.txt
+# exports
+# *.cache
 dist
 build
 .strapi-updater.json
