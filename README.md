@@ -8,7 +8,7 @@ This prototype is based on [this blog](https://www.pixelhop.io/writing/creating-
 * this contains in effect 2 repositories in 1.  They would normally be separate projects.
     * [strapi](https://strapi.io/) headless cms
     * [nuxt](https://nuxt.com/) vue app
-* neither of the versions in this prototype are the latest versions. I just grabbed a sample repo to get things up and running quickly for this POC. Actual development plan would be to use newer versions of both libraries along with a front-end component framework like [vuetify](https://next.vuetifyjs.com/en/).
+* neither of the versions in this prototype are the latest versions. I just grabbed a sample repo to get things up and running quickly for this proof-of-concept. Actual development plan would be to use newer versions of both libraries along with a front-end component framework like [vuetify](https://next.vuetifyjs.com/en/).
 
 This repo *should* include the cms content including:
 * content types (`/strapi/src/api`)
